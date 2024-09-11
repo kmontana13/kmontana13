@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kate Montana, a PhD at the American Museum of Natural History and the Graduate Center of the City University of New York.
+- 👋 Hi, I’m Kate Montana, an evolutionary biology PhD student at the American Museum of Natural History and the Graduate Center of the City University of New York.
 - 👀 I’m interested in arthropod evolution, biodiversity science in general, and learning about the history of life on earth.
 - 🌱 I’m currently learning R, unix, phylogenomics.
 - 📫 How to reach me: kmontana@gradcenter.cuny.edu
